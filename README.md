@@ -36,7 +36,7 @@
 - [JIRA LINK](https://multicampusuplus.atlassian.net/jira/software/projects/POV/summary)
 - [Figma Link](https://www.figma.com/design/LPgTWB5ycZKHceP9pQDOmo/UI?node-id=1-2&p=f&t=NhkTp0IcCRKWKkwa-0)
   - [Design System Figma](https://www.figma.com/design/LPgTWB5ycZKHceP9pQDOmo/UI?node-id=1-3&p=f&t=z7EcT8zy9piFwWlW-0)
-- [Storybook Link](https://673c240da97b5391fe1cbe2f-ryyeqhtkia.chromatic.com/?path=/docs/design-token-colors--docs)
+- [Storybook Link](https://673c240da97b5391fe1cbe2f-fbjxofsmye.chromatic.com/?path=/docs/design-token-colors--docs)
 - [Npm Link](https://www.npmjs.com/package/pov-design-system?activeTab=readme)
 
 <br>
