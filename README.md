@@ -46,7 +46,7 @@
 ### 디자인 시스템 도입
 
 <img width="1126" alt="image" src="https://github.com/user-attachments/assets/9956de02-05b5-4d57-87e3-7a0f392e087b" />
-<img width="1119" alt="image" src="https://github.com/user-attachments/assets/43bf6471-9798-4fe7-8f33-5f05e4c797a3" />
+<img width="1126" alt="image" src="https://github.com/user-attachments/assets/8329ea4f-e6c2-4129-b2de-abef029a4df2" />
 
 ### Tanstack Query
 
